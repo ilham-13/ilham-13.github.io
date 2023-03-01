@@ -537,7 +537,7 @@ p {
 
 .w3-animate-right{
   position:relative;
-  animation:animateright 2s
+  animation:animateright 6s
 }
 @keyframes animateright{
   from{right:-300px;opacity:0} to{right:0;opacity:1}
@@ -545,7 +545,7 @@ p {
 
 .w3-animate-left{
   position:relative;
-  animation:animateleft 2s
+  animation:animateleft 6s
 }
 
 @keyframes animateleft{
