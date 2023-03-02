@@ -540,7 +540,7 @@ p {
   animation:animateright 6s
 }
 @keyframes animateright{
-  from{right:-300px;opacity:0} to{right:0;opacity:1}
+  from{right:-30px;opacity:0} to{right:0;opacity:1}
 }
 
 .w3-animate-left{
